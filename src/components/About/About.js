@@ -43,7 +43,7 @@ function About() {
           <Techstack />
 
           <h1 className="project-heading">
-            <strong className="purple">Tools</strong> I use
+            Quali <strong className="purple">Tools</strong> uso
           </h1>
           <Toolstack />
 
