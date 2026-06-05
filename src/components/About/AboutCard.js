@@ -17,11 +17,11 @@ function AboutCard() {
             <br />
             Ho conseguito una laurea triennale in{" "}
             <span className="purple">Informatica (L-31)</span> presso{" "}
-            <span className="purple">l'Università di Pisa</span>.
+            <span className="purple">l'Università di Pisa</span> con la votazione di 102/110 con la tesi intitolata{" "}
+            <span className="purple">Valutazione sperimentale di un approccio per il leasing di infrastrutture Cloud-Edge</span>.
             <br />
             <br />
-            Al di fuori della programmazione, mi piace dedicarmi ad attività che
-            stimolano la mia creatività.
+            Al di fuori della programmazione, mi piace dedicarmi ad attività <span className="purple">outdoor</span>.
           </p>
         </blockquote>
       </Card.Body>
